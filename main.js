@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
 =======
     function divide(a, b) {
         if (b === 0) {
-            throw new Error("Division by zero");
+            throw new Error("Error : You division by zero");
         }
         return a / b;
 >>>>>>> divide-function
