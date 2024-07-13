@@ -22,4 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         });
     });
+    function subtract(a, b) {
+        return a - b;
+    }
 });
