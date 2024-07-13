@@ -13,3 +13,6 @@ This repository contains a simple web-based calculator built using HTML, CSS wit
 - HTML
 - CSS (Tailwind CSS)
 - JavaScript
+
+## Calculator Look Loke
+![Calculator-design](./calculte.png)
