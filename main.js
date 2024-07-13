@@ -33,6 +33,9 @@ document.addEventListener("DOMContentLoaded", function() {
         return a / b;
 >>>>>>> divide-function
     }
+    function isOperator(token) {
+        return token === '+' || token === '-' || token === '*' || token === '/';
+    }
 });
 
 
